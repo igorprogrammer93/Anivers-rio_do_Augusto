@@ -40,6 +40,8 @@
 
     @media (max-width: 640px) {
         padding: 40px 0;
+        background-size: cover; /* Já presente, mantém a imagem ajustada */
+        background-position: center; /* Adicionado para centralizar a imagem */
 
         &__logo {
             height: 40px;
